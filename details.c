@@ -36,6 +36,6 @@ int main(){
 		printf("Details of person %d\n",i+1);
 		printf("Name: %s\n",d[i].name);
 		printf("Age: %d\n",d[i].age);
-		printf("Address: %s\n\n",d[i].no);
+		printf("Address: %s\n\n",d[i].no); //testing change
 	}
 }
